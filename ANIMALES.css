@@ -1,0 +1,26 @@
+*{
+    background:#3FAF59;
+}
+.boton {
+border: 2px solid #cccccc; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color:#3FAF59;/*color botón*/
+color:#cccccc; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 100px; /*bordes redondos*/
+}
+ul{
+padding-left:0;
+}
+ 
+li{
+list-style: none;
+display: inline;
+padding-right: 10px;
+}
+ 
+body > header{
+background: #333;
+}
